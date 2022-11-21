@@ -1,0 +1,86 @@
+.mission {
+  padding: 50px 0;
+  width: 50%;
+  margin: auto;
+}
+.mission p {
+  font-size: 24px;
+  text-align: justify;
+}
+
+/* ourTeam  */
+.ourTeam {
+  padding: 60px 0;
+}
+.teamMember {
+  display: flex;
+  justify-content: space-around;
+  gap: 40px;
+  margin: 50px 0;
+}
+.teamMember img {
+  width: 300px;
+}
+.memberDes {
+  width: 40%;
+}
+.memberDes h3 {
+  font-size: 46px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.memberDes p {
+  font-size: 24px;
+  text-align: justify;
+}
+.nfts p {
+  font-size: 24px;
+}
+/* responsiveness  */
+
+@media only screen and (max-width: 768px) {
+  p {
+    font-size: 20px !important;
+  }
+  /* mission  */
+  .mission {
+    width: 80%;
+  }
+  /* titles  */
+  .mission h2 {
+    font-size: 36px !important;
+  }
+  .ourTeam h3 {
+    font-size: 36px !important;
+  }
+  .nfts h3 {
+    font-size: 36px !important;
+  }
+  /* team  */
+  .teamMember {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .teamMember img {
+    width: 250px;
+  }
+  .zeen,
+  .boots {
+    flex-direction: column-reverse;
+  }
+  .memberDes {
+    width: 60%;
+    margin: auto;
+  }
+  .memberDes h3 {
+    font-size: 24px !important;
+    margin-bottom: 10px;
+  }
+}
+
+
+.map-container {
+  height: 400px;
+  }

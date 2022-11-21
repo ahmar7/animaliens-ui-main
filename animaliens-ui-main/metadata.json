@@ -1,0 +1,1195 @@
+{
+  "0": {
+    "name": "The Chosen Ones #0",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "4zXmWOWjzVZUCoEzhIzy7iCg2xs_EkdCvT0I6TYOoGg"
+  },
+  "1": {
+    "name": "The Chosen Ones #1",
+    "traits": ["Chestplate", "Covered Helmet", "Revolver", "Sword"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "t1C-3xL_0vcvj5Ifw_ue_PLamad59xTCeogyApQLaTQ"
+  },
+  "2": {
+    "name": "The Chosen Ones #2",
+    "traits": ["Chestplate", "Belt", "Ski Goggles", "Wool Boots"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "Z3yClDdakjo1nrw02_YdustNJjGp8UojOKpc-nNb74A"
+  },
+  "3": {
+    "name": "The Chosen Ones #3",
+    "traits": ["Chestplate", "Belt", "SPO"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "W1NMCaWIvPPNo7d-a7515v4VrHNx1XgYmTDFzDxbUTU"
+  },
+  "4": {
+    "name": "The Chosen Ones #4",
+    "traits": [
+      "Special Background",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "X-Ray"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "oX7MuIT63_8fNq4iYvnL2-zzVRXh3Hf3QizaQI61El4"
+  },
+  "5": {
+    "name": "The Chosen Ones #5",
+    "traits": ["Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "Pg8cbVggD9NBf87ZmSL09BM9giBiEE8-OC7gp2bsj5U"
+  },
+  "6": {
+    "name": "The Chosen Ones #6",
+    "traits": ["Chestplate", "Belt", "Snorkel", "Watch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "0kK0TFYxGTxp97YKAS4zBxYfOZ8C87uJxI8daCQJtYQ"
+  },
+  "7": {
+    "name": "The Chosen Ones #7",
+    "traits": ["Belt", "Wool Boots"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "UctB-TC32e6W0JQ5JNTCysjp1YuzPe_3aWB_6FR5NWw"
+  },
+  "8": {
+    "name": "The Chosen Ones #8",
+    "traits": [],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "SzkGhgBfYrM-jxoZjMjW5zacVBs7yZVk5vte2AKpCeY"
+  },
+  "9": {
+    "name": "The Chosen Ones #9",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "YZAcPYVFx1YuYZNzHhnd5-bb25ouTdvhbSzpddewx0s"
+  },
+  "10": {
+    "name": "The Chosen Ones #10",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "BBPQOK_TUSy184_BSzGW7mmW6FVwVl2LoOPpr-xDMaE"
+  },
+  "11": {
+    "name": "The Chosen Ones #11",
+    "traits": ["Camo Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "vKD9OvnJ54hb7uWO7vL6cT2rSF307KyRpB7-kT3FOw8"
+  },
+  "12": {
+    "name": "The Chosen Ones #12",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Cardano"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "aqHaoCZFTkpOzacYBceLi8gAvgk8mEHBKWsSSnTMz7g"
+  },
+  "13": {
+    "name": "The Chosen Ones #13",
+    "traits": ["Special Background", "Belt", "Covered Helmet", "Wool Boots"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "MpVUdgrEwxlr6S1ZB8bWJ1V1jOEQ912hfSgKROc8P_4"
+  },
+  "14": {
+    "name": "The Chosen Ones #14",
+    "traits": ["Star Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "Q0WwV3VfyK0WV8X9Y5QDok55jBKXdkmdEVchqtHlNhQ"
+  },
+  "15": {
+    "name": "The Chosen Ones #15",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "jE91h9zj1q2cOvqaO9nSxMbZQRMsfvNbDIcSr_WoNbA"
+  },
+  "16": {
+    "name": "The Chosen Ones #16",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Covered Helmet", "Flowers"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "bWuaNT18Pl3dxHd1ViacxRn0v20VIa77FXULlld8D7A"
+  },
+  "17": {
+    "name": "The Chosen Ones #17",
+    "traits": ["Belt", "Sun Glasses", "Watch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "bN941Qf9CbyvxCwrpFyn_6cZNt4pqpscpfSqwleuD6E"
+  },
+  "18": {
+    "name": "The Chosen Ones #18",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Bazooka"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "W6-M8hoZsYhXFXK8aaQBN0FbsFSt12yNyjuM6Qgs3ow"
+  },
+  "19": {
+    "name": "The Chosen Ones #19",
+    "traits": ["Covered Helmet", "Sun Glasses", "Wool Boots"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "ckU8NbYTH3ifBFRa2cDIPn6VCnVGEL7mxhU0qMKdwA4"
+  },
+  "20": {
+    "name": "The Chosen Ones #20",
+    "traits": ["Belt", "Covered Helmet", "Sun Glasses"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "YIWkbE4qPPgUdx2NNtBDBViUhwenKEKAvUq7UkvOI3s"
+  },
+  "21": {
+    "name": "The Chosen Ones #21",
+    "traits": ["Chestplate", "Belt", "Jetpack", "Sun Glasses", "Amulet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "3Zm3wxolRGHjh7Yr6un_EddGkrzFVxuNMA4wrxtyy0c"
+  },
+  "22": {
+    "name": "The Chosen Ones #22",
+    "traits": ["Special Background", "Chestplate", "Belt", "Pistol"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "6OjJ0M7GkHfXLuCaQEf5IRMWS3bN-d1pFLtn0c06510"
+  },
+  "23": {
+    "name": "The Chosen Ones #23",
+    "traits": ["Amulet", "Belt", "Covered Helmet", "Anchor"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "IYIk2IM-VukBzS7z6GWqcKXWuXHNbFfvPrb3SNBgF68"
+  },
+  "24": {
+    "name": "The Chosen Ones #24",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "X-Ray", "Harpoon"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "JSywhDaFRugv13FtKep5Xxfelxd-n53uKr-lzdB5AQs"
+  },
+  "25": {
+    "name": "The Chosen Ones #25",
+    "traits": [
+      "Special Background",
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Binoculars"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "a9tQtkoPni0mG8WQN1HxFZAbtpQ60J2aKF5meWfV_AU"
+  },
+  "26": {
+    "name": "The Chosen Ones #26",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Eye Patch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Lion",
+    "arweaveId": "i9K5xaTBj9RRCcvvlzA4wilrv-JUZVESR_wuzBOoECI"
+  },
+  "27": {
+    "name": "The Chosen Ones #27",
+    "traits": ["Chestplate", "Belt", "SPO"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Elephant",
+    "arweaveId": "TtX0jmuAeFKOjwrL7ovTgPPDmX8EcwM_GhWdFI2Jq6A"
+  },
+  "28": {
+    "name": "The Chosen Ones #28",
+    "traits": ["Chestplate", "Amulet", "Belt", "Umbrella", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "-0Oy_j2m7_vn1jun_vFY1Ci5YfAiesndm8ExTKMJYOQ"
+  },
+  "29": {
+    "name": "The Chosen Ones #29",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "8PBj89Q8SlpShA5wGj-5M_dymzS4sHhPrLaSkbyN5xM"
+  },
+  "30": {
+    "name": "The Chosen Ones #30",
+    "traits": ["Chestplate", "Belt", "Cardano"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "awe-HB7s33xVoD4tXebsq6hJjKlz6H2zKKEz-4EJX_w"
+  },
+  "31": {
+    "name": "The Chosen Ones #31",
+    "traits": ["Camo Suit", "Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "KFtX1SVh1SoZtZJ3WnWOiPjA_pv_QOvKjPnsxbPgM_k"
+  },
+  "32": {
+    "name": "The Chosen Ones #32",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Arc"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "1hIm1WJ1gqXvUPkBQAcf9yiEXlJKmtNuN_oByFKB6AI"
+  },
+  "33": {
+    "name": "The Chosen Ones #33",
+    "traits": ["Camo Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "E2f8kNfliCavzOkwBdOGHBilBTdiqc6EEgbAwX3pssQ"
+  },
+  "34": {
+    "name": "The Chosen Ones #34",
+    "traits": [
+      "Camo Suit",
+      "Chestplate",
+      "Belt",
+      "Jetpack",
+      "Covered Helmet",
+      "Flowers"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "gPe0GuXVpgOzzzSeN95k-yxbxxVNjR74p6jzwRTMleM"
+  },
+  "35": {
+    "name": "The Chosen Ones #35",
+    "traits": ["Chestplate", "Eye Patch", "Flag", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "mI1wyQPmKXsYh2Z42u0T-bal5J1YyyL3jj0nqMLZwC8"
+  },
+  "36": {
+    "name": "The Chosen Ones #36",
+    "traits": ["Belt", "Covered Helmet", "Sun Glasses", "Amulet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "rIWCVdlAV8kQNnxFAhEhOiOUw-FWQbME6YWsGUMwsMg"
+  },
+  "37": {
+    "name": "The Chosen Ones #37",
+    "traits": ["Belt", "Covered Helmet", "Flag", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "QHpEDp1JKVZZ3yudGRikC5Qa--lRr8uvcMSQJQhYOZA"
+  },
+  "38": {
+    "name": "The Chosen Ones #38",
+    "traits": [
+      "Star Suit",
+      "Chestplate",
+      "Amulet",
+      "Belt",
+      "Backpack",
+      "Covered Helmet",
+      "Eye Patch"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "PywKB3qdIWdJ0cxMRjl2n0O_t62JjyDEKrNMRDyl4kM"
+  },
+  "39": {
+    "name": "The Chosen Ones #39",
+    "traits": ["Wine"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "SGg1eFU-rF2Yx5pLJyResMg-WKQJlrmwPYmk7YbgJEM"
+  },
+  "40": {
+    "name": "The Chosen Ones #40",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Snorkel"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "Ny40uONyFM2jlnb7d3ChoLwg2c8yDrLRM1Gkt3fVobs"
+  },
+  "41": {
+    "name": "The Chosen Ones #41",
+    "traits": ["Camo Suit", "Belt", "Covered Helmet", "Flag"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Lion",
+    "arweaveId": "ThKT5gGmixTVHFgiiFilX0dsUiCha-dtEvq-jqeRzb8"
+  },
+  "42": {
+    "name": "The Chosen Ones #42",
+    "traits": [
+      "Special Background",
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Anchor"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "ODYbAq2RFGzVzXmoNDZ7fZ5pMuwfU_Mkn19sg_Kaggc"
+  },
+  "43": {
+    "name": "The Chosen Ones #43",
+    "traits": [
+      "Special Background",
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Sword",
+      "Amulet"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "6Ygj0J2yphxEJnbRybwNSFnhvV8r1UYQqCPSCWWTzRI"
+  },
+  "44": {
+    "name": "The Chosen Ones #44",
+    "traits": ["Chestplate", "Belt", "Pistol"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "VocazyR01Ud8TERdIVIrbB5t5M4sFlddusxp8My_CiU"
+  },
+  "45": {
+    "name": "The Chosen Ones #45",
+    "traits": ["Chestplate", "Belt", "Backpack", "Sun Glasses"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "foUMv-vv7QSFi9WxbUvk8TRHqioiKMmJsqLeQhrVU9s"
+  },
+  "46": {
+    "name": "The Chosen Ones #46",
+    "traits": [
+      "Chestplate",
+      "Belt",
+      "Backpack",
+      "Covered Helmet",
+      "Wool Boots",
+      "Pistol"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "wr45pYK80DWdDEY0Ma-b7Ndd80FKFMb3G4ksI3K9iXk"
+  },
+  "47": {
+    "name": "The Chosen Ones #47",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Cardano"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "v9tnJsj-3sw3OLOm9iHr8R5WjWGCNnwWIqpu2O3AQ7M"
+  },
+  "48": {
+    "name": "The Chosen Ones #48",
+    "traits": ["Belt", "Covered Helmet", "Jo-Jo"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "WUnz2AhUTukrIOAKGZSblSrz1KWJQYsIMgFmzaVbaYU"
+  },
+  "49": {
+    "name": "The Chosen Ones #49",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "ah4MBWQGQPJGaq2wbcl6IkTeIlpn_Js3MpzgU6YLylw"
+  },
+  "50": {
+    "name": "The Chosen Ones #50",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Cardano"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "YdmXOYAfjqwxlLuxnS9jM8qKD3XxbGD1-rBPC452dEs"
+  },
+  "51": {
+    "name": "The Chosen Ones #51",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "rz53rNVWerDFA2P4JkXBtfPDpzKaoSM9_ztZF6dLFbw"
+  },
+  "52": {
+    "name": "The Chosen Ones #52",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Covered Helmet", "Arc"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "jkxxIpzrg0qQgm9Wkp-EQRACAEaw5R-gq3BGN54bdHs"
+  },
+  "53": {
+    "name": "The Chosen Ones #53",
+    "traits": [
+      "Chestplate",
+      "Amulet",
+      "Belt",
+      "Covered Helmet",
+      "X-Ray",
+      "Blaster"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "fyAZv_7F9zjC_McHAqRsYPQGk3ViXmw4pLl1d_-6dXI"
+  },
+  "54": {
+    "name": "The Chosen Ones #54",
+    "traits": ["Chestplate", "Jetpack", "Covered Helmet", "Pistol"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "WulBUuL1DXLcstmQfvgrf3nCwKLkeaoz6hYAK7AYOgo"
+  },
+  "55": {
+    "name": "The Chosen Ones #55",
+    "traits": ["Chestplate", "Belt", "Harpoon"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "jjsJAe5ufAgzYW81zDdTwZsW-MjMrmh800070CgI8H8"
+  },
+  "56": {
+    "name": "The Chosen Ones #56",
+    "traits": ["Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "XiUhRq3H6TNM-tYTtQwlUAMoWjWA7MGsV9b-cHaxXJA"
+  },
+  "57": {
+    "name": "The Chosen Ones #57",
+    "traits": ["Chestplate", "Belt", "VR"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "e5XqiQ--YBSP4VM7DRBdLxXjSmTfyUT5fbKgD1LwzUQ"
+  },
+  "58": {
+    "name": "The Chosen Ones #58",
+    "traits": [
+      "Camo Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Watch",
+      "Cardano"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "PlnGF2tvHEIzRg3j_cATpSfq0kZiRR9wkeCq8EOe9p8"
+  },
+  "59": {
+    "name": "The Chosen Ones #59",
+    "traits": ["Star Suit", "Chestplate", "Amulet", "Belt", "Arc"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "Z_yFZE5IG7590VDmguMjkNBUbZ6JUHFp403aNN5P7FI"
+  },
+  "60": {
+    "name": "The Chosen Ones #60",
+    "traits": ["Chestplate", "Belt", "Blaster"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Elephant",
+    "arweaveId": "1kYIeiZi8GWJkx0neAkNp4I9Orp_dCwq70f-yCvcuJU"
+  },
+  "61": {
+    "name": "The Chosen Ones #61",
+    "traits": ["Star Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "kYTJZgxglnGykdL83GaGlpF4cIaI1jg7FipJcLJJC8o"
+  },
+  "62": {
+    "name": "The Chosen Ones #62",
+    "traits": ["Belt", "Flowers"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "O2_GJmSf3_lLKjeyVRSLe3oWLKCe0eVGUoxQVP8sPn0"
+  },
+  "63": {
+    "name": "The Chosen Ones #63",
+    "traits": ["Chestplate", "Belt", "Backpack", "Eye Patch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "9CsPMoCbDZuJUNim6lfiKQzDT3x1Gv5Yf1Yyccbefjw"
+  },
+  "64": {
+    "name": "The Chosen Ones #64",
+    "traits": ["Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "pc9BgVNky_EpvlZ3MJPf6ZJxj3amW-82XUkNDZJ8a54"
+  },
+  "65": {
+    "name": "The Chosen Ones #65",
+    "traits": ["Chestplate"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "BloOdEmq_c5ttS9rHLjrBdHwJkI23wHFCvLq7Ca4KtE"
+  },
+  "66": {
+    "name": "The Chosen Ones #66",
+    "traits": ["Chestplate", "Belt", "X-Ray"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "DWRHP27iwAFQ9A3MVPSeS4kuUAd5_ORoQUvUVllsUx8"
+  },
+  "67": {
+    "name": "The Chosen Ones #67",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "LBnN7znyzHNTQfjgP5JQ3F6RNH7OJknNFJfOagcPR6o"
+  },
+  "68": {
+    "name": "The Chosen Ones #68",
+    "traits": ["Belt", "Binoculars"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "mstYN93IidbhkHQrPoE22G3VDq2xQPrxnTM2mHFIyHQ"
+  },
+  "69": {
+    "name": "The Chosen Ones #69",
+    "traits": ["Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "jOhjDO2su8PqxWxNHq9Yx3K5oz-1tY7K76ddgYN8dLM"
+  },
+  "70": {
+    "name": "The Chosen Ones #70",
+    "traits": ["Special Background", "Chestplate", "Amulet", "Belt", "Snorkel"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "mq91CKmMvz_uwqgUO9BkNjxrdEGQeR_xGzHS9XAz12M"
+  },
+  "71": {
+    "name": "The Chosen Ones #71",
+    "traits": ["Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "CnfhZc-MrNipfeM62NQr3pvYK59G9PykdDaeNhHBFh8"
+  },
+  "72": {
+    "name": "The Chosen Ones #72",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "uwCpndRQdjksoofSWbM0LyeRsGO79HiL17M-y_TF7f8"
+  },
+  "73": {
+    "name": "The Chosen Ones #73",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "fvsXjmpDp01aOC4qHzP_UrafeZyFyIu5sfpszNjld8o"
+  },
+  "74": {
+    "name": "The Chosen Ones #74",
+    "traits": ["Chestplate", "Amulet", "Belt", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "JnkOl-np8phNk4g_zjmUnSi16IM15x_LQPajC53lzLA"
+  },
+  "75": {
+    "name": "The Chosen Ones #75",
+    "traits": [
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Ski Goggles",
+      "Revolver"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "lggdxmaAnynWmUwiRaEXOWM0kAJEoehnoeTEc1n7YWk"
+  },
+  "76": {
+    "name": "The Chosen Ones #76",
+    "traits": ["Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "zhe32t4IR2SvVi-mqDGRjsgQM2m0scgSiVki1c7C2P8"
+  },
+  "77": {
+    "name": "The Chosen Ones #77",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Flowers"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "kAmpQ7bOCnWcaN_4Zti60RVJDkeFO8asniZZ3FIZGs4"
+  },
+  "78": {
+    "name": "The Chosen Ones #78",
+    "traits": [
+      "Special Background",
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Snorkel"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "8wRt1TNvLn-k5tB5Aa2sBm1kMs0enAjQ7YLj5c7nqBI"
+  },
+  "79": {
+    "name": "The Chosen Ones #79",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Covered Helmet", "Watch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "89vCfql3fJJNonFcL8n5Nqa5KqWdLLrKdbzz0UCEADQ"
+  },
+  "80": {
+    "name": "The Chosen Ones #80",
+    "traits": ["Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "E9q1UtTgzH7692g4HPHEWsoA_WbcYYEn5QhyxyrGbQ4"
+  },
+  "81": {
+    "name": "The Chosen Ones #81",
+    "traits": ["Chestplate", "Belt", "Ski Goggles"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "e7evAWkJnmeqVyfTFRwicw-ao8EEo8Ftc2nEtfFjy-I"
+  },
+  "82": {
+    "name": "The Chosen Ones #82",
+    "traits": ["Star Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "tbWA4F2dm8W46DXjH8PS1NJAd7S-hjZMV665fzsm1N4"
+  },
+  "83": {
+    "name": "The Chosen Ones #83",
+    "traits": ["Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "pEIkXmNTo0H1Se1rQp-QvJAd1PgaTyfYvmNzLNs2m70"
+  },
+  "84": {
+    "name": "The Chosen Ones #84",
+    "traits": ["Special Background", "Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "lQoZpjFycIMXaj7gusgB2TahxgR_ZP8zmNIpVkvIpGs"
+  },
+  "85": {
+    "name": "The Chosen Ones #85",
+    "traits": ["Chestplate", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "ySZe78LcphIrqVATaEO8UlvJsk5fmKrjzGigGhRmiWg"
+  },
+  "86": {
+    "name": "The Chosen Ones #86",
+    "traits": [
+      "Special Background",
+      "Camo Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Ski Goggles"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "GjnA2nr5XDu7c3QlkksAONH5magH--BIKw3VDzK0NvU"
+  },
+  "87": {
+    "name": "The Chosen Ones #87",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Elephant",
+    "arweaveId": "AMEY2G73xA2n6CLwLm0K9m-ralzKImlud_O9X3ZoSpA"
+  },
+  "88": {
+    "name": "The Chosen Ones #88",
+    "traits": ["Special Background", "Chestplate"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "XFoaY-7J0Szb7d9h_-jvjAT1i2pTZ0X_eZlmtu3AIP0"
+  },
+  "89": {
+    "name": "The Chosen Ones #89",
+    "traits": ["Chestplate", "Belt", "Candle"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "Z2LHHrqK5pJSu44cCtjrp7JelOlcvxxEnIQYaD42gHg"
+  },
+  "90": {
+    "name": "The Chosen Ones #90",
+    "traits": ["Camo Suit", "Chestplate", "Belt", "Pistol", "Hockey Stick"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "tomgXRpD_9dWpFwZo7VnrKF68YkkpKCDoPMcQsm22jo"
+  },
+  "91": {
+    "name": "The Chosen Ones #91",
+    "traits": ["Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "IjCztkZ9ZWiVADrCOhTYBsslvihm3aKKT7I-OtGoDro"
+  },
+  "92": {
+    "name": "The Chosen Ones #92",
+    "traits": [
+      "Camo Suit",
+      "Chestplate",
+      "Amulet",
+      "Belt",
+      "Covered Helmet",
+      "Sword",
+      "Axe"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "ydGdvfH8FWYibtk2RlBArbleh06KtLgM4Oa5lUpnAaY"
+  },
+  "93": {
+    "name": "The Chosen Ones #93",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "bEINBnr7Dmh1PXI09wLYTo2qxd52eB0UDIeP_N-NTwQ"
+  },
+  "94": {
+    "name": "The Chosen Ones #94",
+    "traits": [
+      "Star Suit",
+      "Chestplate",
+      "Amulet",
+      "Belt",
+      "Ski Goggles",
+      "Bazooka"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "4-00tkeEZO0I1iQ-mST3P_rULurTWb51PEjmS_GZAM4"
+  },
+  "95": {
+    "name": "The Chosen Ones #95",
+    "traits": ["Special Background", "Belt", "Covered Helmet", "Jo-Jo"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "Iz9FWprEBn1gHIUgmxIsstFcr9sIPMytPeTbSqbVrJI"
+  },
+  "96": {
+    "name": "The Chosen Ones #96",
+    "traits": ["Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "jKXAfCCA0TSvykK8tFgOp9NAInxrYE8No2ZWZPcCRvE"
+  },
+  "97": {
+    "name": "The Chosen Ones #97",
+    "traits": ["Special Background", "Belt", "Covered Helmet", "Wine"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "uCswTKuIcqTgXBC4B0IJOOKBiJcYI4XldfDXs2GtVpI"
+  },
+  "98": {
+    "name": "The Chosen Ones #98",
+    "traits": ["Camo Suit", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Lion",
+    "arweaveId": "QneRPmwvD18ahItPw_tFXi8Q0hV_JwlQxT45LLvZWcY"
+  },
+  "99": {
+    "name": "The Chosen Ones #99",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Harpoon"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "0kN8jQ2ZmJsaJSnsYy6vFGfg5lLRdpoJRLiToTazypk"
+  },
+  "100": {
+    "name": "The Chosen Ones #100",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "rDoM1rvZgfVut6TIRevn43WQTcxO5q2fJTRo0khzQ6M"
+  },
+  "101": {
+    "name": "The Chosen Ones #101",
+    "traits": ["Umbrella", "Covered Helmet", "Watch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "C0EmpN-u55OpFaQjzShyTwiZ5i7buFx8Cl7SlyIYRjM"
+  },
+  "102": {
+    "name": "The Chosen Ones #102",
+    "traits": ["Star Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "dV3OARg5eaQTdJMt1fUnJDHVseyI9G1tqs_46_IGvEY"
+  },
+  "103": {
+    "name": "The Chosen Ones #103",
+    "traits": ["Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "zyLETX8QOysBGvoFg-YlfA6-F46wEgx6PI0hYy5t-tc"
+  },
+  "104": {
+    "name": "The Chosen Ones #104",
+    "traits": ["Camo Suit", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "87ETrHqcJNIhFlGtDM-fhAn3tSYnM29Z4GlXLf3SzDM"
+  },
+  "105": {
+    "name": "The Chosen Ones #105",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Binoculars"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Elephant",
+    "arweaveId": "vBkAOHMRm4KW8g93QCqXIFeKcD0UNdGZXWQ_gUGdvyk"
+  },
+  "106": {
+    "name": "The Chosen Ones #106",
+    "traits": ["Camo Suit", "Belt", "Jetpack", "Covered Helmet", "Eye Patch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "Ju_MggVslf_h1wRQ34dZ9vQybG1uCbTttaKMSEPW87w"
+  },
+  "107": {
+    "name": "The Chosen Ones #107",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "x4CCYCuCXrd8gIrCqZbun7ghOyErQNgAtnFrPxN5PGU"
+  },
+  "108": {
+    "name": "The Chosen Ones #108",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Eye Patch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "hQzM6XOm0kWCjh7mC6G-lNjfmKXen3ShCm_X0zs4fW4"
+  },
+  "109": {
+    "name": "The Chosen Ones #109",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Harpoon"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "0S-lk7eHShqDyRJ1MQmZDTmedKZ4A63KRGAzP7bGYdM"
+  },
+  "110": {
+    "name": "The Chosen Ones #110",
+    "traits": ["Chestplate", "Belt", "Backpack", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "DMxNVJHRtjJKNMMAHgNczGtlXAKVWWVNhgKjEHZN_zQ"
+  },
+  "111": {
+    "name": "The Chosen Ones #111",
+    "traits": ["Belt", "VR"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "YYMYlquhqsivwl1sN9ZQlU7klOUF-NZdMZN1Vo49N6g"
+  },
+  "112": {
+    "name": "The Chosen Ones #112",
+    "traits": ["Chestplate", "Belt", "Sword"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Shark",
+    "arweaveId": "gWSz1Nr7NYUEZaRmHnf9yAK6s6020tHSYi7oskW2GFg"
+  },
+  "113": {
+    "name": "The Chosen Ones #113",
+    "traits": ["Belt", "Wool Boots", "SPO"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "t-EOiIYNyNRpFVKSy8KxcuPtqx38JAsFuk_ERVl_3bU"
+  },
+  "114": {
+    "name": "The Chosen Ones #114",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "B2WeYU-eyG7bj2MrDF1gpgDBupFkNVKkz30_JBunUAE"
+  },
+  "115": {
+    "name": "The Chosen Ones #115",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Arcane",
+    "arweaveId": "r2Y6NUC7zCHvaYtUjXjgweiA1JsQ614ATemdSo4o5YA"
+  },
+  "116": {
+    "name": "The Chosen Ones #116",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Cardano"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "FxCpruPmSKNXWAVUr7kH26O7awqo3Hmu1wuGCWTWxOU"
+  },
+  "117": {
+    "name": "The Chosen Ones #117",
+    "traits": ["Star Suit", "Belt", "VR", "Watch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "NXuUChBtJDvdrYD6p-us3fqQbEh1h1Si9nxva0ub8nA"
+  },
+  "118": {
+    "name": "The Chosen Ones #118",
+    "traits": ["Chestplate", "Belt", "Jetpack"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "0W-a0aoHOkkNAGW15ZnzUJCshfmtIIWJVWqHIxtnyRg"
+  },
+  "119": {
+    "name": "The Chosen Ones #119",
+    "traits": [
+      "Camo Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Wool Boots"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "wT6yID2NATndnqz2FAPjcF4xjEXSdqa7BvZA2KolXM8"
+  },
+  "120": {
+    "name": "The Chosen Ones #120",
+    "traits": ["Camo Suit", "Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "MjVhgwb0CmZyeh_m5IA2fqDqDoBZ9qeGuU9RZ1CqU8g"
+  },
+  "121": {
+    "name": "The Chosen Ones #121",
+    "traits": ["Chestplate", "Belt", "Eye Patch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "8parUwZpP3-CjyrIQLhwdjh9_zB3TrDhac_yTdkiq4k"
+  },
+  "122": {
+    "name": "The Chosen Ones #122",
+    "traits": ["Chestplate", "Belt", "X-Ray", "Anchor"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "za7_V2CuuPTmXXAYfk9OwSFn3s_NbSJ7J0B_YEaQUQw"
+  },
+  "123": {
+    "name": "The Chosen Ones #123",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Rhino",
+    "arweaveId": "ECGONFcb6aSBOlbGPUhwWG0Y-EW3x8DPo7x2jWP36a0"
+  },
+  "124": {
+    "name": "The Chosen Ones #124",
+    "traits": ["Chestplate"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "2NEu_wmgNlxF7XTW2EovcYwJVnfuf65OAPwDy4ZMNs4"
+  },
+  "125": {
+    "name": "The Chosen Ones #125",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "Np9YuDjVTvQotMr66kCuzpzaPqX2eGnNxHF-g9fcSMI"
+  },
+  "126": {
+    "name": "The Chosen Ones #126",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "DInaaVVcIstp-UrGj8838eHMLSF8EuISZSFGUMNyb0s"
+  },
+  "127": {
+    "name": "The Chosen Ones #127",
+    "traits": ["Chestplate", "Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Lion",
+    "arweaveId": "DneOIjlWouX-SSFVAYWdtRnq47HczbIJMyscYVj75M4"
+  },
+  "128": {
+    "name": "The Chosen Ones #128",
+    "traits": ["Belt", "Snorkel", "Watch", "Bazooka"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Robot",
+    "arweaveId": "sDW_xmhDUuI0BkxCob6d1eGGx7LesUIg7unOq4WLCx0"
+  },
+  "129": {
+    "name": "The Chosen Ones #129",
+    "traits": ["Star Suit", "Chestplate", "Belt", "Covered Helmet", "Snorkel"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "A8Mq8fT5v7JrJgJqXrfXSGXNjHv3AYmZNogFFdfHnJs"
+  },
+  "130": {
+    "name": "The Chosen Ones #130",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "ARLiL8JzWpIokmoeiyKAoNQqW6ZuAbmzDN9n7BA98vM"
+  },
+  "131": {
+    "name": "The Chosen Ones #131",
+    "traits": ["Chestplate", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Parrot",
+    "arweaveId": "zUQQs_LE2ZBrMVpj4vCJuqp5_Eb4URntfV14xC3CV-g"
+  },
+  "132": {
+    "name": "The Chosen Ones #132",
+    "traits": ["Camo Suit", "Chestplate", "Belt", "Hockey Stick"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Cat",
+    "arweaveId": "j6mkaFQqJQL4VABDPzxDbalZf0O9KxbFllMlS9-REnQ"
+  },
+  "133": {
+    "name": "The Chosen Ones #133",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Lion",
+    "arweaveId": "TeLVxA2kiOwE5U6dOLA_Mukd90Vvigb_Xyy9fD5bM3k"
+  },
+  "134": {
+    "name": "The Chosen Ones #134",
+    "traits": ["Belt", "Watch"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Bear",
+    "arweaveId": "cVsA6m-7ehZ1N25tCJhtIJAhsWc-j8Pvuf2H1bm31Vw"
+  },
+  "135": {
+    "name": "The Chosen Ones #135",
+    "traits": ["Special Background", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Shark",
+    "arweaveId": "9JbHd2M5uQGF_POfI1rYKkAQ8PHFUMiQZhiTnvErIO0"
+  },
+  "136": {
+    "name": "The Chosen Ones #136",
+    "traits": [
+      "Special Background",
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Jetpack",
+      "X-Ray"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "Xn8YDF8EOzJS_HDUCNYfGgNHpuWa4n5I359XLhiasZM"
+  },
+  "137": {
+    "name": "The Chosen Ones #137",
+    "traits": ["Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "RxEr-dniM8Dsvs72zXJDZ-AqgJ-6aCimFIL4IXHB3bA"
+  },
+  "138": {
+    "name": "The Chosen Ones #138",
+    "traits": [
+      "Special Background",
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Baguette"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "CV7xmhY5ibT61TGMsYc5ZGD1aAvWI_RUbrw7edfiYrk"
+  },
+  "139": {
+    "name": "The Chosen Ones #139",
+    "traits": ["Belt", "X-Ray", "Pistol"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "hyq3gQYXJxcjFxOcxZNQuWsOBpzNysBpyvC8oH1mAa0"
+  },
+  "140": {
+    "name": "The Chosen Ones #140",
+    "traits": [
+      "Camo Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "Lamp Fish"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Lion",
+    "arweaveId": "btWAdAXlqMVR1ZCUemWS47rYD_bXyc4kyUznjjxZX48"
+  },
+  "141": {
+    "name": "The Chosen Ones #141",
+    "traits": [
+      "Star Suit",
+      "Chestplate",
+      "Belt",
+      "Covered Helmet",
+      "VR",
+      "Bazooka"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Alien",
+    "arweaveId": "DclpK5sNjASHDlNEUdHuZKUfOPiCujI3ygAGnNaBbbY"
+  },
+  "142": {
+    "name": "The Chosen Ones #142",
+    "traits": [
+      "Chestplate",
+      "Amulet",
+      "Belt",
+      "Ski Goggles",
+      "Sword",
+      "Pistol"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "LH5StKAL9pXIQX9I3xrRgrkGa35eqxYTUv9GSlr5d0s"
+  },
+  "143": {
+    "name": "The Chosen Ones #143",
+    "traits": ["Chestplate", "Belt", "Covered Helmet", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Ape",
+    "arweaveId": "XeYuI1XPaLSdLwXHK8xAgmNypCJ-09sF4u0ACRD_K30"
+  },
+  "144": {
+    "name": "The Chosen Ones #144",
+    "traits": ["Camo Suit", "Chestplate", "Belt"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "hnYcqHLpzRNnHRt6R_T7S34OZwSiqq7-lqiLaj6jGj8"
+  },
+  "145": {
+    "name": "The Chosen Ones #145",
+    "traits": ["Belt", "Covered Helmet", "Sword"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Frog",
+    "arweaveId": "mhCzbhr1lHbUxOg83ot3srbH8_v5jRoVnkXFLKLFT0w"
+  },
+  "146": {
+    "name": "The Chosen Ones #146",
+    "traits": ["Belt", "Covered Helmet"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Tiger",
+    "arweaveId": "dRHW1yNGkCKggoS1x8u1v9i0o3rN5ndbCTrkpyeM-rE"
+  },
+  "147": {
+    "name": "The Chosen Ones #147",
+    "traits": ["Star Suit", "Chestplate", "Belt", "VR", "Flowers", "Axe"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "PpJu7XkgDpQSrT3v76VfTsj_mBzbjLkcndNk__ZYrR0"
+  },
+  "148": {
+    "name": "The Chosen Ones #148",
+    "traits": [
+      "Special Background",
+      "Camo Suit",
+      "Belt",
+      "Covered Helmet",
+      "Flag"
+    ],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Dog",
+    "arweaveId": "uL1eev2zARta6XR-cwkvSFO-0p_5kV0XgVF_Y0ItKvQ"
+  },
+  "149": {
+    "name": "The Chosen Ones #149",
+    "traits": ["Camo Suit", "Chestplate", "Belt", "Sword"],
+    "image": "ipfs://QmaPa87P1kykkgZa1Q9ihhHTadUAKA98wAvzNiE4XQvXQy",
+    "type": "Rhino",
+    "arweaveId": "Q1SuVqIl7cBn9ATEop8bUQnNNjjjqxalvSw8dgqUfeE"
+  }
+}
