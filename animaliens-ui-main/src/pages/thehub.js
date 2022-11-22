@@ -1,11 +1,15 @@
 import React from "react";
+import Carousel from "../components/Carousel/carousel";
+import Proyects from "../components/Proyects/proyects";
+import Trending from "../components/TrendingCards/trending";
 import "../styles/thehub.css";
+
 const Thehub = () => {
   return (
     <div className="css-n1ozge">
-      <div className="section-heading">
-        <h1>DISCOVER</h1>
-      </div>
+      <Carousel />
+      <Trending />
+      <Proyects />
     </div>
   );
 };

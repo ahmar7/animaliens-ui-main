@@ -146,6 +146,7 @@
     background: -webkit-linear-gradient(90.27deg, #5F26E0, #CF4DD3);
     -webkit-background-clip: text;
 
+    transition: all 0.4s ease;
     -webkit-text-fill-color: transparent;
 }
 
@@ -153,6 +154,7 @@
     /* background: linear-gradient(127.27deg, #5F26E0 -68.29%, #CF4DD3 557.89%); */
     background: -webkit-linear-gradient(90.27deg, #5F26E0, #CF4DD3);
     -webkit-background-clip: text;
+    transition: all 0.4s ease;
     -webkit-text-fill-color: transparent;
 }
 
