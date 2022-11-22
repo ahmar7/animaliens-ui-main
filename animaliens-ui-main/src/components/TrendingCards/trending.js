@@ -12,7 +12,7 @@ const Trending = () => {
         <h1>TRENDING</h1>
       </div>
       <div className="video-cards">
-        <div className="indiv-card">
+        <div className="indiv-card non-slip">
           <img className="round-card" src={Card1} alt="" />
           <div className="card-detail">
             <div className="detail-upper">
@@ -48,7 +48,7 @@ const Trending = () => {
             </div>
           </div>
         </div>
-        <div className="indiv-card">
+        <div className="indiv-card slip">
           <img className="round-card" src={Card3} alt="" />
           <div className="card-detail pos2">
             <div className="detail-upper ">

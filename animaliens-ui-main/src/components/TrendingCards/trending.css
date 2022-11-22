@@ -108,3 +108,44 @@
     font-family: 'Chakra Petch' !important;
     font-style: italic;
 }
+
+@media (min-width:1500px) {
+    .pos1 {
+        margin-top: -80px;
+    }
+
+    .pos2 {
+        margin-top: -87px;
+    }
+
+}
+
+@media (max-width:800px) {
+
+    .video-cards {
+        flex-wrap: wrap;
+    }
+
+    .indiv-card {
+        width: 47%;
+    }
+
+    .slip {
+        margin-top: 90px;
+    }
+}
+
+@media (max-width:580px) {
+    .indiv-card {
+        margin-top: 110px;
+        width: 100%;
+    }
+
+    .slip {
+        margin-top: 90px;
+    }
+
+    .non-slip {
+        margin-top: 0 !important;
+    }
+}
