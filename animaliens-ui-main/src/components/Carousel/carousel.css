@@ -115,6 +115,10 @@
     display: inline;
 }
 
+.anin img {
+    width: 110px;
+}
+
 @media (max-width:1200px) {
     .indiv-slide {
         padding: 25px 11px 0px;

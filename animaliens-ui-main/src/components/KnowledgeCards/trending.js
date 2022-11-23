@@ -1,6 +1,7 @@
 import React from "react";
 import Card1 from "../../images/assets/Card1.png";
 import Card2 from "../../images/assets/Card2.png";
+import AnimLog from "../../images/assets/Animaliens Logo.png";
 import Card3 from "../../images/assets/Card3.png";
 import Heart from "../../images/assets/Heart.png";
 import EmptyHeart from "../../images/assets/Emptyheart.png";
@@ -8,7 +9,7 @@ const KnowledgeTrending = () => {
   return (
     <div className="trending-section">
       <div className="section-heading">
-        <h1>You might also like...</h1>
+        <h1>TRENDING</h1>
       </div>
       <div className="video-cards">
         <div className="indiv-card non-slip">
@@ -40,7 +41,7 @@ const KnowledgeTrending = () => {
               </div>
             </div>
             <h3 className="anim">
-              ANIM<span>ALIENS</span>
+              <img src={AnimLog} alt="" />
             </h3>
             <div className="card-btn no-mar">
               <button>Explore Now</button>

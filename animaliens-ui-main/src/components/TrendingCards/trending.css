@@ -103,6 +103,10 @@
     font-weight: 600;
 }
 
+.anim img {
+    width: 110px;
+}
+
 .anim span {
 
     font-family: 'Chakra Petch' !important;

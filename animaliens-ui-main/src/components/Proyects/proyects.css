@@ -85,6 +85,17 @@
 
 }
 
+.melogo {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.melogo img {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
 @media (max-width:1200px) {
     .indiv-proyect {
         min-height: 400px;

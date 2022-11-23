@@ -3,6 +3,7 @@ import "./trending.css";
 import Card1 from "../../images/assets/Card1.png";
 import Card2 from "../../images/assets/Card2.png";
 import Card3 from "../../images/assets/Card3.png";
+import AnimLog from "../../images/assets/Animaliens Logo.png";
 import Heart from "../../images/assets/Heart.png";
 import EmptyHeart from "../../images/assets/Emptyheart.png";
 const Trending = () => {
@@ -41,7 +42,7 @@ const Trending = () => {
               </div>
             </div>
             <h3 className="anim">
-              ANIM<span>ALIENS</span>
+              <img src={AnimLog} alt="" />
             </h3>
             <div className="card-btn no-mar">
               <button>Explore Now</button>

@@ -1,8 +1,8 @@
 import React from "react";
 import "./carousel.css";
 import "slick-carousel/slick/slick.css";
-
 import "slick-carousel/slick/slick-theme.css";
+import AnimLogo from "../../images/assets/Animaliens Logo.png";
 import Wild from "../../images/assets/Wild.png";
 import Tangs from "../../images/assets/Tangs.png";
 import Proyect1 from "../../images/assets/proyect1.png";
@@ -75,9 +75,9 @@ const Carousel = () => {
                 </h1>
                 <p className="small-par">
                   by{" "}
-                  <span className="anim-tag">
-                    ANIM<span className="petch-font">ALIENS</span>
-                  </span>
+                  <div className="small-img anin">
+                    <img src={AnimLogo} alt="" />
+                  </div>
                 </p>
               </div>
               <div className="slide-right">
@@ -94,13 +94,13 @@ const Carousel = () => {
                 </h1>
                 <p className="small-par">
                   by{" "}
-                  <span className="anim-tag">
-                    ANIM<span className="petch-font">ALIENS</span>
-                  </span>
+                  <div className="small-img anin">
+                    <img src={AnimLogo} alt="" />
+                  </div>
                 </p>
               </div>
               <div className="slide-right">
-                <img src={Proyect2} alt="" />
+                <img src={Proyect3} alt="" />
               </div>
             </div>
           </div>
