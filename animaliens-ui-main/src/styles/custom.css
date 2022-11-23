@@ -183,6 +183,7 @@
 }
 
 .chakra-button.css-5jnj91 {
+    z-index: 9;
     color: white !important;
     background-image: linear-gradient(to right, #5f26e0, #7e29dd, #952eda, #aa36d7, #bb3fd5, #c259dd, #c96fe4, #d084ea, #d5a6f5, #ddc5fd, #ebe3ff, #ffffff) !important;
 }
