@@ -142,6 +142,17 @@
     margin: 0 auto !important;
 }
 
+#bodyContent>.landin {
+    width: 100%;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    z-index: 0;
+    background-repeat: no-repeat;
+    height: 100vh;
+    left: 0;
+}
+
 .sidebar-module--linkItem--knlQK:hover {
     background: -webkit-linear-gradient(90.27deg, #5F26E0, #CF4DD3);
     -webkit-background-clip: text;
@@ -167,6 +178,7 @@
 
 .chakra-button.css-1eeolci {
     color: white !important;
+    z-index: 999;
     background-image: linear-gradient(to right, #5f26e0, #7e29dd, #952eda, #aa36d7, #bb3fd5, #c259dd, #c96fe4, #d084ea, #d5a6f5, #ddc5fd, #ebe3ff, #ffffff) !important;
 }
 

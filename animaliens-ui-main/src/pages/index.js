@@ -42,11 +42,11 @@ const Landing = (props) => {
         description="Welcome to the allien collective invading the Cardano blockchain."
       />{" "}
       {/* main body  */}{" "}
-      <main>
+      <main className="landin">
         {" "}
         {/* top banner  */}{" "}
         <div className={homeStyles.alien}>
-          <img src={alien} alt="" />
+          {/* <img src={alien} alt="" /> */}
         </div>
         {/* project  */}
       </main>{" "}
