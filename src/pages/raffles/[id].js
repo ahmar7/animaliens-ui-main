@@ -13,8 +13,8 @@ import {
   Text,
 } from "@chakra-ui/react";
 import React, { useState } from "react";
-import Metadata from "../../components/Metadata";
 import * as raffleStyles from "../../styles/Raffle.module.css";
+import Metadata from "../../components/Metadata";
 import {
   Table,
   TableContainer,
