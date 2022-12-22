@@ -12,6 +12,10 @@
 
 }
 
+.css-1ogy11k {
+    z-index: 10 !important;
+}
+
 .closedRaffle {
     border: 3px solid #5F26E0 !important;
     /* background: ; */
@@ -24,9 +28,16 @@
     position: relative;
 }
 
+.overf {
+    overflow-x: auto;
+}
+
+
+
 .Raffle-module--raffleBox--j4uHf img {
     border-radius: 40px;
     /* min-height: 410px; */
+    width: 100%;
 }
 
 .Raffle-module--raffleBox--j4uHf .css-1aj0tm4 {
